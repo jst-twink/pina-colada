@@ -40,3 +40,10 @@ body {
   font-size: 0.875rem;
   color: #424242;
 }
+
+@media (max-width: 480px) {
+    .sonya_waiter {
+        width: 30%;
+        height: 60%;
+    }
+}
