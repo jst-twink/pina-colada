@@ -43,7 +43,7 @@ body {
 
 @media (max-width: 480px) {
     .sonya_waiter {
-        width: 30%;
-        height: 60%;
+        width: 15vh;
+        height: 40vh;
     }
 }
